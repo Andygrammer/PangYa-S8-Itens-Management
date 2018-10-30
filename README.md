@@ -38,5 +38,5 @@ f) Review the previous steps
 a) See "img" folder
 
 # 4. Credits
-a) This application was developed by André Marinho
+a) This application was developed by André Marinho </br></br>
 b) The PangYa S8 Private Server was developed by Acrisio
