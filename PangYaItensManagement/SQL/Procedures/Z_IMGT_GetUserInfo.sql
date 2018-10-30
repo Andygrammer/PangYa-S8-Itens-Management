@@ -1,0 +1,4 @@
+CREATE DEFINER=`root`@`localhost` PROCEDURE `Z_IMGT_GetUserInfo`(IN `IDUSER` int)
+BEGIN
+SELECT NICK FROM pangya.account WHERE UID = IDUSER;
+END
