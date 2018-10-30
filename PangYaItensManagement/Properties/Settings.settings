@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PangYaItensManagement.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="userId" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4276</Value>
+    </Setting>
+    <Setting Name="userNickname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Master(e13)</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
